@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Minecraft Overviewer</title>
+<title>Someserver Render</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="Minecraft-Overviewer 0.15.30 (dc6f8cf)" />
